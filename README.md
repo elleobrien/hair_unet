@@ -5,7 +5,7 @@ This is an application of the u-net convolutional neural network architecture to
 This code was last tested with Tensorflow 1.14.0 and Keras 2.3.0.
 
 ## Credits
-U-net model code is adapted from [zhixuhao's repo](https://github.com/zhixuhao/unet). Please contact me at andronovohpf@gmail.com if you are interested in obtaining the train model file.
+U-net model code is adapted from [zhixuhao's repo](https://github.com/zhixuhao/unet). Please contact me at andronovohpf@gmail.com if you are interested in obtaining the trained model file.
 
 ## Data sources
 The dataset contains image-mask pairs from three sources:
